@@ -1,1 +1,3 @@
-This is some sample text. Let's see where it ends up.
+Professional software engineer, amateur hardware hacker, accidental sysadmin, In love/hate relationship with microservices.
+
+Twitter: @geoaxis 
